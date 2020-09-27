@@ -22,7 +22,7 @@ def assembled_matrix = [ORGANIC_PRODUCE = [
   "Grapes",
   "Avocadoes",
   "Asparagus"
-]
+],
 
 CONVENTIONAL_PRODUCE = [
   "Grapefruit",
